@@ -1,1 +1,1 @@
-# TheSourceCodeMagazine-React
+# TheSourceCodeMagazine
